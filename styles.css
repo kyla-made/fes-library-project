@@ -87,6 +87,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: space-around;
+  align-items: center;
 }
 
 .header__description {
@@ -133,5 +134,22 @@ button:active {
 }
 
 .header__img--wrapper {
-  padding: 20;
+  padding: 20px;
 }
+
+.container {
+  padding: 56px 0;
+}
+
+.row {
+  width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+/* 
+
+HIGHLIGHT 
+
+
+*/
