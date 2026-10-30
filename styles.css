@@ -153,3 +153,21 @@ HIGHLIGHT
 
 
 */
+
+.highlight__wrapper {
+  display: flex;
+}
+
+.highlight {
+  padding: 0 24px;
+  width: calc(100% / 3);
+  justify-content: ;
+}
+
+.highlight__img {
+  align-items: center;
+  border: 1.5px solid gray;
+  border-radius: 6px;
+  padding: 20px;
+  
+}
